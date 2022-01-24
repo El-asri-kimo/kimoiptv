@@ -98,7 +98,7 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/80191
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/80190
 #EXTINF:-1,OSN Kids Zone HD	
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/80189
-MBC1.net	MBC1 HD
+#EXTINF:-1,MBC1 HD
 http://yassooo.com:8080/Manaf/Manaf123/80275
 #EXTINF:-1,MBC2 HD
 http://yassooo.com:8080/Manaf/Manaf123/80274
