@@ -4,24 +4,12 @@
 http://smartestv.vip:2095/ABHVYOP/2387998104/2207
 #EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_2_SD
 http://smartestv.vip:2095/ABHVYOP/2387998104/2208
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_3_SD
-http://smartestv.vip:2095/ABHVYOP/2387998104/2209
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_4_SD
-http://smartestv.vip:2095/ABHVYOP/2387998104/2210
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_5_SD
-http://smartestv.vip:2095/ABHVYOP/2387998104/85112
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_6_SD
-http://smartestv.vip:2095/ABHVYOP/2387998104/85111
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_1_low
 http://smartestv.vip:2095/ABHVYOP/2387998104/2211
 #EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_2_low
 http://smartestv.vip:2095/ABHVYOP/2387998104/2212
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_3_low
-http://smartestv.vip:2095/ABHVYOP/2387998104/2213
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_4_low
-http://smartestv.vip:2095/ABHVYOP/2387998104/2214
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_MAX_5_low
-http://smartestv.vip:2095/ABHVYOP/2387998104/85105
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",bein_Sports_SD1
 http://smartestv.vip:2095/ABHVYOP/2387998104/1006
@@ -447,3 +435,15 @@ http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8
 http://2022tv.co:80/george/george/4982
 #EXTINF:-1,RMC Sport 1
 http://56.1fgounkour.xyz:80/live/137000/index.m3u8
+
+**********************
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",MY-HD-Reel-PX-Action
+http://smartestv.vip:2095/ABHVYOP/2387998104/3450
+#EXTINF:0 tvg-id="ext" group-title="Channels",MY-HD-Reel-PX-Cinema
+http://smartestv.vip:2095/ABHVYOP/2387998104/3452
+#EXTINF:0 tvg-id="ext" group-title="Channels",MY-HD-Reel-Px-Comedy
+http://smartestv.vip:2095/ABHVYOP/2387998104/94661
+#EXTINF:0 tvg-id="ext" group-title="Channels",MY-HD-Reel-PX-Family
+http://smartestv.vip:2095/ABHVYOP/2387998104/4984
+#EXTINF:0 tvg-id="ext" group-title="Channels",MY-HD-Reel-PX-Unlimited
