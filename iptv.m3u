@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Maser
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243717
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Maser 2 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243716
 #EXTINF:-1,Test
 https://list.iptvcat.com/my_list/s/12654ddf9ae102acd054907e5a6561fc.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Shahid VIP Live HD ARB
